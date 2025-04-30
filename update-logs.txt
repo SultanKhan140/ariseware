@@ -1,0 +1,82 @@
+
+Version: 2.8.0 —-—-DATE: 18-04-2023
+
+1. Bootstrap v5.1.1 to v5.3.0-alpha3 updated.
+
+====================================================
+
+Version: 2.7.0 —-—-DATE: 15-02-2023
+
+1. Minor Css issue fixed
+
+====================================================
+
+Version: 2.5.0 —-—-DATE: 12-02-2022
+
+1. RTL Version Added
+
+====================================================
+
+Version: 2.0.1 —-—-DATE: 04-10-2021
+
+1. Bootstrap v5.0.2 to Bootstrap v5.1.1 updated.
+2. SVG Image Path Color CSS Issue fixed.
+
+====================================================
+
+Version: 2.0.0 —-—-DATE: 30-08-2021
+
+1. Bootstrap v4.6.0 to Bootstrap v5.0.2 updated.
+
+====================================================
+
+Version: 1.2.2 —-—-DATE: 10-07-2021
+
+1. Software Innovation Home Issue Fixed.
+
+====================================================
+
+
+Version: 1.2.1 —-—-DATE: 30-06-2021
+
+1. Bootstrap v4.4.1 to Bootstrap v4.6.0 updated.
+
+====================================================
+
+Version: 1.1.9 —-—-DATE: 18-Fab-2021
+
+1. Modern IT Company Home Page Add.
+2. Machine Learning Home Page Add.
+
+=========================================
+
+Version: 1.1.8 —-—-DATE: 15-October-2020
+
+1. Php file include.
+
+=============================
+
+Version: 1.0.7 —-—-DATE: 14-October-2020
+
+1. performance :  Using plugins.min.js for website load performance.
+
+=============================
+
+Version: 1.0.6 —-—-DATE: 10-October-2020
+
+1. Fixed     :  CSS Issue and Safari browser reveal footer problem.
+2. Instagram :  Add New Plagin.
+3. Slider    : 	Resolutions Home page Hero slider Add.
+4. PHP file  :  Ajax Mail added in Appointment form.
+
+=============================
+
+Version: 1.0.5 —-—-DATE: 25-March-2020
+
+1. Fixed     :  CSS issue.
+
+=============================
+
+Version: 1.0.4 —-—-DATE: 13-March-2020
+
+1. Php file include.
